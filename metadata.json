@@ -1,0 +1,7 @@
+{
+  "name": "The Synthetic Soul",
+  "description": "A Digital Consciousness Interface that resurrects personalities using Gemini Live API, audio synthesis, and reactive 3D visualization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
